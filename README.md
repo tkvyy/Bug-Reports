@@ -1,6 +1,6 @@
 # 🐞 Bug Reports
 
-Welcome to my collection of real-world security findings discovered during professional and private web application testing. These reports showcase vulnerabilities I’ve identified and responsibly disclosed, ranging from session management issues to authorization bypasses.
+Welcome to my collection of real-world security findings discovered during professional and private web application testing. These reports showcase vulnerabilities I’ve identified and responsibly disclosed.
 
 > 🔐 All reports have been anonymized or modified to remove sensitive details, in accordance with responsible disclosure policies.
 
