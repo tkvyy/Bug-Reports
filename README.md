@@ -23,13 +23,13 @@ Welcome to my collection of real-world security findings discovered during profe
 - [`session-fixation-checkout.md`](./session-fixation-checkout.md)  
   Victim uses attacker’s session unknowingly, resulting in PII + credit card leak to attacker.
 
-- [`idor-subdomain-leak.md`](./idor-subdomain-leak.md)  
+- [`idor-subdomain-leak.md`](./idor-user-info-subdomain.md)  
   Exposed personal information of all registered users due to IDOR on wildcard subdomain.
 
-- [`jwt-none-kyc-bypass.md`](./jwt-none-kyc-bypass.md)  
+- [`jwt-none-kyc-bypass.md`](./kyc-jwt-guid-takeover.md)  
   JWT algorithm tampering + GUID enumeration to complete KYC for other users.
 
-- [`2fa-bypass-cookie.md`](./2fa-bypass-cookie.md)  
+- [`2fa-bypass-cookie.md`](./2fa-bypass-cookie-missing.md)  
   App failed to validate 2FA completion cookie, rendering 2FA checks useless.
 
 - [`google-auth-csrf-reuse.md`](./google-auth-csrf.md)  
